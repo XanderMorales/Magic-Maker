@@ -74,6 +74,6 @@ final class Config {
 		*/
 		self::$setting['email.server'] = 'mail.webeditors.com';
 		self::$setting['email.user'] = 'webeditors';
-		self::$setting['email.pass'] = '86753Oh9';
+		self::$setting['email.pass'] = 'fdsfdsafds';
 	}
 }
